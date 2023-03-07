@@ -1,0 +1,15 @@
+{"reqSignature":{},"txn":{"data":{"alias":"Gary de Beer","dest":"Q7MuTSkWVVdXixzfB5SvZ6","role":"0","verkey":"~Q8aNoN7D5xzSijAieyGHMv"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":1},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"Andrii Podik","dest":"QnLDfZiGVwUkdpDbgV3c7e","role":"0","verkey":"~14Ekx6GDE7ZqRinSxRX8mk"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":2},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"Besir Barca","dest":"J9WpPo2c8RXmErEp8waKwz","role":"0","verkey":"~2XuqKSEy7D3BywYGXifb2L"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":3},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"Fadwa Mohanna","dest":"F4QNF355qQ5oahtRdQZU1i","role":"0","verkey":"~yZ4zhqySrxxGQTayGk5vB"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":4},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"Issa Chini","dest":"28LFwWTcgUkbPXoYqBj1N3","role":"0","verkey":"~R4tciX28oYqkt4RLu7WNDw"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":5},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"Mazen Akkaoui","dest":"Xm2rPpdiYVPtCww8D9hB8s","role":"0","verkey":"~9v9W53LSnNWNEXuSBAwmSb"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":6},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"Manah Khalil","dest":"YZzjbWcmZpMW8ADWkQSH9V","role":"0","verkey":"~WEA72wefpAyk4MThK8gyoZ"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":7},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"Dilay Canitez","dest":"CAdpTke7byTYHabvz33cG","role":"0","verkey":"~Jv69VCe2E8aPQe2iRmbiiu"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":8},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"Mohamad Al Zein","dest":"MENLpe3jtaKp44sAHo11dS","role":"0","verkey":"~ALvwCMXpy9ikFXFpUVA8me"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":9},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"Ayse Akay","dest":"XxBqAaquaY3ymmAAAVuhTe","role":"0","verkey":"~FaNn8rKBpohmNWF8YpaNzx"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":10},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"alias":"Israfil Topac","dest":"A3hDXF5beXW6Ktr5yrXjpG","role":"0","verkey":"~XsV4zEKhAjvtMEqbeyPyhA"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":11},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"SZu5T1ZK276dVvvzvd5qHg","role":"2","verkey":"~We7BZo3TSLJurA6eArgJKs"},"metadata":{"from":"A3hDXF5beXW6Ktr5yrXjpG"},"type":"1"},"txnMetadata":{"seqNo":12},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"VckjJTax9B3N9fEWt5tLnp","role":"2","verkey":"~S8kqm7CLZegCW7riMJgUx1"},"metadata":{"from":"A3hDXF5beXW6Ktr5yrXjpG"},"type":"1"},"txnMetadata":{"seqNo":13},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"GBZ94A8HDwk3V9i8eGX3nv","role":"2","verkey":"~QJZF2DbmTbBFurnyJeX7KH"},"metadata":{"from":"A3hDXF5beXW6Ktr5yrXjpG"},"type":"1"},"txnMetadata":{"seqNo":14},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"Y4tYegFzbKgeXVtstFgVYD","role":"2","verkey":"~NbtkbThXCVvd51WemwqHBM"},"metadata":{"from":"A3hDXF5beXW6Ktr5yrXjpG"},"type":"1"},"txnMetadata":{"seqNo":15},"ver":"1"}
